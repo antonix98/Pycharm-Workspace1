@@ -1,4 +1,3 @@
-import collections
 import json
 
 from django.http import JsonResponse, HttpResponse
